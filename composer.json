@@ -1,0 +1,16 @@
+{
+    "name": "tritchaphornboisson/project-architecture",
+    "description": "Quest PSR-4&Autoload",
+    "autoload": {
+        "psr-4": {
+            "Tritchaphornboisson\\ProjectArchitecture\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tritchaphorn BOISSON",
+            "email": "tritchaphorn@gmail.com"
+        }
+    ],
+    "require": {}
+}
