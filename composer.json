@@ -3,7 +3,7 @@
     "description": "Quest PSR-4&Autoload",
     "autoload": {
         "psr-4": {
-            "Tritchaphornboisson\\ProjectArchitecture\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
@@ -12,5 +12,7 @@
             "email": "tritchaphorn@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    }
 }
